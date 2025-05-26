@@ -1,4 +1,4 @@
-# github-final-project
+# github-final-project (Introduction to Git & Github offered by IBM through Coursera)
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
